@@ -1,3 +1,4 @@
 Name: "Thor"
 Age: 30
 City: "Berlin"
+Goal: "Switch career to frontend development"
